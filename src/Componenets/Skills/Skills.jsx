@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Skills.scss";
-import { SKILLS } from "../../Utils/Data";
+import { SKILLS } from "../../Utils/data";
 import SkillsCard from "./SkillsCard/SkillsCard";
 import SkillsInfoCard from "./SkillsInfoCard/SkillsInfoCard";
 import { motion } from "framer-motion";
@@ -86,7 +86,6 @@ function Skills() {
       </motion.div>
     </motion.section>
   );
-
 }
 
 export default Skills;
