@@ -26,7 +26,7 @@ function Navbar() {
           <a href="https://github.com/Karthikr32" target="_blank" rel="noopener noreferrer" >
           <FontAwesomeIcon className="font5" icon={faGithub} />
           </a>
-          <a href="/Karthik_resume.pdf" download="Karthik_Resume.pdf">
+          <a href="/Karthik_R_FullStack_resume.pdf" download="Karthik_R_FullStack_resume.pdf">
             <button>Resume <FontAwesomeIcon icon={faDownload} /></button>
           </a>
         </div>
